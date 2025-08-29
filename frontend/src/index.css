@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* estilos extras, se precisar */
+body {
+  @apply bg-gradient-to-r from-green-200 to-green-400;
+}
